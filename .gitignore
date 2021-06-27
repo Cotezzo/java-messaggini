@@ -1,2 +1,8 @@
 SocketWhatsappClient/bin
+SocketWhatsappClient/.settings
+SocketWhatsappClient/.classpath
+SocketWhatsappClient/.project
 SocketWhatsappServer/bin
+SocketWhatsappServer/.settings
+SocketWhatsappServer/.classpath
+SocketWhatsappServer/.project
